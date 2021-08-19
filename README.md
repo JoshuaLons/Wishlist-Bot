@@ -13,3 +13,4 @@ Configuration values (API tokens, sheet values, worksheet names etc.) are all ke
 Add prioritization system, possibly based on number of reacts added.
 Add categorization system to allow for multiple lists in different worksheets (This would be a pretty major change from the current code).
 Add template file for variables.
+Add help file for Discord.
